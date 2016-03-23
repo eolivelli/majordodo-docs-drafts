@@ -1,5 +1,3 @@
-# majordodo-docs-drafts
-
 ## Bookkeeper usage on Majordodo 
 
  This document describes how Majordodo uses Bookeeper to implement a replicated state machine without sharing any other medium other then BookKeeper.
